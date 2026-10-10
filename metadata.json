@@ -1,0 +1,6 @@
+{
+  "name": "OBDO Supply Chain Analytics & VBA Dashboard",
+  "description": "Automated OBDO Logistics Dashboard with real-time KPI metrics, daily data updates, pivot summaries, and customizable Excel VBA macro generator with auto-spacing pivot collision protection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
